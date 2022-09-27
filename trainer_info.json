@@ -1,0 +1,9 @@
+{
+"Name": "Raghul Ramesh", 
+"City": "Chennai",
+ "Tech": ["Python", 
+			"AIML", 
+			"AWS"], 
+"Manager": false, 
+"Salary": null
+}

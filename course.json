@@ -1,0 +1,13 @@
+{
+     "tech": "Python",
+     "duration": "5days",
+     "classroom": false,
+     "Certificatiom": null,
+     "Schedule": {
+          "day1": "Introduction",
+          "day2": {
+               "Morning": "Data Structure",
+               "Noon": "Functions"
+          }
+     }
+}
