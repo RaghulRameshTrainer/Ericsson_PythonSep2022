@@ -42,7 +42,7 @@ emp_2=Employee.create_object(str2)   #Employee('Tharani','Siva',200000)
 
 #print(emp_1+emp_2)
 # print(len(emp_2))
-print(emp_1*emp_2)
+#print(emp_1*emp_2)
 # import datetime
 # tday=datetime.date(2022,9,25)
 # print(Employee.is_workingday(tday))
@@ -84,4 +84,6 @@ print(emp_1*emp_2)
 # Inheritance   90%
 # Polymorphism
 # Encapsulation
+
+
 
